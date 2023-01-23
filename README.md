@@ -6,7 +6,7 @@
 <p  align="center">Projeto para praticar meus conhecimentos com angular SSR</p>
 
 <p  align="center">
-	<img  src="https://img.shields.io/github/languages/count/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/count/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957%22"/>
 	<img  src="https://img.shields.io/github/languages/top/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
 	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
 	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
