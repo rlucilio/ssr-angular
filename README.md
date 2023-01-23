@@ -2,14 +2,14 @@
 	<img  width="100%"  src="https://i.imgur.com/6PxW4UH.gif"/>
 </h1>
 
-<h3  align="center">🖥️ Nome do Repo</h3>
-<p  align="center">Resumo do projeto</p>
+<h3  align="center">🖥️ Estudo do SSR com Angular</h3>
+<p  align="center">Projeto para praticar meus conhecimentos com angular SSR</p>
 
 <p  align="center">
-	<img  src="https://img.shields.io/github/languages/count/rlucilio/estudo-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/top/rlucilio/estudo-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/estudo-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/estudo-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/count/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/top/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/study-angular-universal?style=for-the-badge&logo=ghost&color=7ED957"/>
 </p>
 
 <p  align="center"> 
@@ -45,10 +45,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### 🎲 Rodando o Back End (servidor)
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/rlucilio/estudo-angular-universal.git>
+$ git clone https://github.com/rlucilio/study-angular-universal.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd estudo-angular-universal
+$ cd study-angular-universal
 
 # Instale as dependências
 $ npm install
